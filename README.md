@@ -1,0 +1,1 @@
+# Wykrywanie_uszkodze-_obiekt-w_budowlanych
