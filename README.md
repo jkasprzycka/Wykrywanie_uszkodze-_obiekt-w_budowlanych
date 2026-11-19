@@ -63,4 +63,4 @@ Domyślnie używany podzbiór: 2000 obrazów treningowych / 400 walidacyjnych / 
 
 ## Ograniczenia
 
-Użyto podzbioru danych i jednego seeda dla każdego przebiegu (niewielkie różnice mogą wynikać z szumu). IoU jest surową miarą dla cienkich pęknięć. Dla każdego modelu przetestowano tylko jedno ustawienie hiperparametrów.
+Użyto podzbioru danych i jednego seed'a dla każdego przebiegu (niewielkie różnice mogą wynikać z szumu). IoU jest surową miarą dla cienkich pęknięć. Dla każdego modelu przetestowano tylko jedno ustawienie hiperparametrów.
